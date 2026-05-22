@@ -47,13 +47,6 @@ Display all edge-detected images for comparison.
 
 ---
 
-## Developed By
-
-- **Name:** ____________________________  
-- **Register No:** ______________________  
-
----
-
 ## Output
 
 ###  Sobel Edge Detector
@@ -81,3 +74,10 @@ Display all edge-detected images for comparison.
 ## Result
 
 Thus, edges are successfully detected using Sobel, Prewitt, Roberts, Laplacian, and Canny edge detection techniques. Each method highlights edges differently based on gradient and intensity variations, improving feature extraction and analysis.
+
+## Developed By
+
+- **Name:** Ashok Kumar Preetham Kumar
+- **Register No:** 212224040032
+
+---
